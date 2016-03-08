@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+- Git starts to keep track of what happens on the depository, although once created there are no commits made automatically.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+- The staging area allows you to prepare the files for the next commit. The staging area is different because it is a way
+to work with files without them being on the working directory of the repository.
