@@ -15,3 +15,16 @@ What are some situations when branches would be helpful in keeping your history 
 
 - Branches are helpful when you want to try a new feature or a new version. By doing this you won't risk ruining the 
 original and master branch. This way it becomes more flexible to try new features.
+
+How do the diagrams help you visualize the branch structure?
+
+- Diagrams help us visualize the branch structure because it is a visual way of keeping track of the branches that exist.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+- The result is that one branch will inherit all the commits from the other one. We represent it that way because one 
+branch ceases to exist, so the connection makes only one branch continue on the graph.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+- Automatic may cause conflicts, and these conflicts can be repaired by manually merging them.
